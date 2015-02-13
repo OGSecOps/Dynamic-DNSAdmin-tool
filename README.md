@@ -20,7 +20,7 @@ Finally MySQL server must be installed in the rule host to provided the necessar
 
 ##IMPORTANT:
 
-The file functions.php is where you can Data Base connection settings and ip scope.
+The file functions.php is where you can change Data Base connection settings, Ip scope for arpa resolution and nsupdate directory.
 
 ##Intended functionality
 
