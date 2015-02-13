@@ -20,14 +20,14 @@ Finally MySQL server must be installed in the rule host to provided the necessar
 
 ##IMPORTANT:
 
-The file functions.php is where you can change Data Base connection settings, Ip scope for arpa resolution and nsupdate directory.
+The file `functions.php` is where you can change Data Base connection settings, Ip scope for arpa resolution and `nsupdate` directory.
 
 ##Intended functionality
 
 As we said before DNSAdmin is a tool oriented to provide means for created new entries in the DNS zones without the need of restart the service. some of the key features of the tool are.
  
 * Multiuser support, by making use of php session to login into the system.
-* session start() protection for each web page of the system.
+* session `start()` protection for each web page of the system.
 * Easily View the zones that you are currently monitoring.
 * Easly Add, Remove or Edit records allocated in your zones.
 * Change have immediately effect in your DNS server.
