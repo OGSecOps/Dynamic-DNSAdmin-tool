@@ -16,7 +16,7 @@
 				<!-- End Search -->
 		</div>
 	</div> 
-	<div class="rights"><p>Website developed by <a href="mailto:1717642@swin.student.edu.au">Oswaldo Gonzalez ID: 1717642</a>, © 2014 SwinBurne University<br />
+	<div class="rights"><p>Website developed by <a href="#">Oswaldo Gonzalez</a>, © 2014 SwinBurne University<br />
 	</p>
 	<div class="validation"><p>
     <a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
